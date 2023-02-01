@@ -1,0 +1,357 @@
+*
+{
+font-family: 'Montserrat', sans-serif;
+}
+
+.main
+{
+	display: flex;
+	flex-direction: row-reverse;
+	background-color: #E5E5E5;
+	width: 1200px;
+	margin: 0 auto;
+}
+
+main
+{
+	background-color: #fff;
+	box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
+}
+
+.about_user h2
+{
+	font-size: 14px;
+	font-weight: bold;
+}
+
+.about_user h1
+{
+	font-size: 45px;
+	font-weight: bold;
+}
+
+.about_user p
+{
+	color: #595959;
+	font-size: 14px;
+}
+
+aside
+{
+	background-color: #1E2939;
+}
+
+aside img
+{
+	margin-top: 40px;
+}
+
+.contacts
+{
+	margin: 50px 0 0 40px;
+}
+
+.contacts h3 , .tech_skills h3 , .soft_skills h3
+{
+	font-weight: 700;
+	font-size: 22px;
+	color: #FFFFFF;
+	margin: 0;
+}
+
+.contacts p
+{
+	font-weight: 700;
+	font-size: 14px;
+	color: #FFFFFF;
+}
+
+.contacts a
+{
+	font-weight: 400;
+	font-size: 14px;
+	opacity: 0.5;
+	color: #fff;
+}
+
+.contacts span
+{
+	margin-right: 5px;
+}
+
+.tech_skills
+{
+	margin: 50px 0 0 40px;
+}
+
+aside li
+{
+	font-weight: 400;
+	font-size: 14px;
+	line-height: 24px;
+	color: #FFFFFF;
+}
+
+aside ul 
+{
+	padding-left: 17px;
+}
+
+aside ::marker
+{
+	color: #FB6D3A;
+}
+
+.soft_skills
+{
+	margin: 45px 0 0 40px;
+}
+
+.about_user
+{
+	margin: 100px 340px 40px 90px;
+}
+
+.about_user h2
+{
+	font-weight: 700;
+	font-size: 14px;
+	line-height: 17px;
+	margin-bottom: 20px;
+}
+
+.about_user h1
+{
+	font-weight: 700;
+	font-size: 45px;
+	line-height: 55px;
+	margin: 0 0 25px 0;
+}
+
+.about_user p
+{
+	font-weight: 400;
+	font-size: 14px;
+	line-height: 24px;
+}
+
+.projects 
+{
+	margin: 0 260px 50px 90px;
+}
+
+.projects h3
+{
+	font-weight: 700;
+	font-size: 22px;
+	line-height: 27px;
+	margin-bottom: 10px;
+}
+
+.projects ol
+{
+	padding-left: 15px;
+}
+
+ .projects li 
+{
+	font-weight: 700;
+	font-size: 14px;
+	line-height: 24px;
+}
+
+.projects span , .projects a
+{
+	font-weight: 400;
+	font-size: 14px;
+	line-height: 24px;
+	color:#595959;
+	text-decoration: none;
+}
+
+.projects a
+{
+	margin-left: 10px;
+}
+
+.project_bracket
+{
+	font-weight: 700 !important;
+	font-size: 14px;
+	line-height: 24px;
+	color: #000000 !important;
+}
+
+.work_1
+{
+	margin: 0 220px 20px 90px;
+}
+
+.work_1 h3
+{
+	font-weight: 700;
+	font-size: 22px;
+	line-height: 27px;
+	margin-bottom: 10px;
+}
+
+.work_1 h4
+{
+	font-weight: 700;
+	font-size: 16px;
+	line-height: 20px;
+	margin-top: 0;
+	margin-bottom: 10px;
+}
+
+.work_1 h4 span
+{
+	color:#FB6D3A;
+}
+
+.work_1 p
+{
+	font-weight: 400;
+	font-size: 12px;
+	line-height: 15px;
+	color:#A8A8A8;
+}
+
+.work_1 p span
+{
+	color: #000;
+}
+
+.work_1 ul
+{
+	font-weight: 400;
+	font-size: 14px;
+	line-height: 24px;
+	color:#595959;
+	padding-left: 20px;
+}
+
+.work_2
+{
+	margin: 0 220px 20px 90px;
+}
+
+.work_2 h4
+{
+	font-weight: 700;
+	font-size: 16px;
+	line-height: 20px;
+	margin-bottom: 10px;
+}
+
+.work_2 h4 span
+{
+	color: #FB6D3A;
+}
+
+.work_2 p
+{
+	font-weight: 400;
+	font-size: 12px;
+	line-height: 15px;
+	color:#A8A8A8;
+}
+
+.work_2 p span
+{
+	color: #000;
+}
+
+.work_2 ul
+{
+	font-weight: 400;
+	font-size: 14px;
+	line-height: 24px;
+	color:#595959;
+	padding-left: 20px;
+}
+
+.work_3
+{
+	margin: 0 220px 40px 90px;
+}
+
+.work_3 h4
+{
+	font-weight: 700;
+	font-size: 16px;
+	line-height: 20px;
+	margin-bottom: 10px;
+}
+
+.work_3 h4 span
+{
+	color: #FB6D3A;
+}
+
+.work_3 p
+{
+	font-weight: 400;
+	font-size: 12px;
+	line-height: 15px;
+	color:#A8A8A8;
+}
+
+.work_3 p span
+{
+	color: #000;
+}
+
+.work_3 ul
+{
+	font-weight: 400;
+	font-size: 14px;
+	line-height: 24px;
+	color:#595959;
+	padding-left: 20px;
+}
+
+.education 
+{
+	margin: 0 413px 105px 90px;
+}
+
+.education h3
+{
+	font-weight: 700;
+	font-size: 22px;
+	line-height: 27px;
+	margin-bottom: 12px;
+}
+
+.education h4
+{
+	font-weight: 700;
+	font-size: 16px;
+	line-height: 20px;
+	color: #FB6D3A;
+	margin-top: 0;
+	margin-bottom: 11px;
+}
+
+.education h5
+{
+	font-weight: 700;
+	font-size: 14px;
+	line-height: 17px;
+	margin-top: 0;
+	margin-bottom: 12px;
+}
+
+.education p
+{
+	font-weight: 400;
+	font-size: 12px;
+	line-height: 15px;
+	color:#A8A8A8;
+}
+
+.education p span
+{
+	color: #000;
+}
